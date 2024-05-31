@@ -23,7 +23,7 @@ padding: 5px;
 -->
 
 
-* ASU Computer Science Ph.D student
+* ASU Computer Science Ph.D Student
 * [**Google Scholar**](https://scholar.google.com/citations?hl=ko&authuser=2&user=jBLD4qgAAAAJ)
 
 
