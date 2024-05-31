@@ -2,6 +2,7 @@
 layout: single
 title: "About me!"
 excerpt: "About Me"
+classes: wide
 search: true
 author_profile: true
 toc: true
