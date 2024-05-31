@@ -28,7 +28,7 @@ padding: 5px;
 
 
 ## Education
-* 08/2023 ~         **Ph.D. Computer Science in Arizona State University (ASU)**
+* 08/2023 ~         **Ph.D. in Computer Science, Arizona State University (ASU)**
 * 03/2022 ~ 07/2023 Ph.D. in Electronical Engineering, Hanyang University -> *Transfered to ASU*
 * 03/2016 ~ 02/2022 B.S. in Electronical Engineering, Hanyang University
 
