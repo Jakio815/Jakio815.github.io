@@ -6,7 +6,8 @@ classes: wide
 search: true
 author_profile: true
 toc: true
-toc_sticky: true
+toc_sticky: false
+toc_icon: "cog"
 --- 
 
 <!--
@@ -49,9 +50,6 @@ padding: 5px;
 * Youri Su, Sanghun Lee, Eunji Song, **Dongha Kim**, Jaeduk Han, and Hokeun Kim, ["Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces"](https://ieeexplore.ieee.org/document/9978518), in Proceedings of the 40th IEEE International Conference on Computer Design (ICCD 2022), Lake Tahoe, CA, October 24-26, 2022.
 
 
-## Undergraduate Projects
-* [Detecting Electric Kickboard On Jetson Nano](https://github.com/Jakio815/Kickboard-Recognition-AI)
-* Implement 2048 on Java
 
 ## Teaching Experience
 ### Hanyang University
@@ -67,3 +65,7 @@ padding: 5px;
 * Large Language Models
 * Block Chain
 
+
+## Undergraduate Projects
+* [Detecting Electric Kickboard On Jetson Nano](https://github.com/Jakio815/Kickboard-Recognition-AI)
+* Implement 2048 on Java
