@@ -2,10 +2,10 @@
 layout: single
 title: "About me!"
 excerpt: "About Me"
-toc: true
 classes: wide
 search: true
 author_profile: true
+# toc: true
 # toc_sticky: false
 # toc_icon: "cog"
 --- 
