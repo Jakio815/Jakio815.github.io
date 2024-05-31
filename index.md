@@ -5,8 +5,8 @@ excerpt: "About Me"
 classes: wide
 search: true
 author_profile: true
-toc: true
-toc_sticky: true
+# toc: true
+# toc_sticky: true
 # toc_icon: "cog"
 --- 
 
