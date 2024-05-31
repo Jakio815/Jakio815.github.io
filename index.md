@@ -6,7 +6,7 @@ classes: wide
 search: true
 author_profile: true
 toc: true
-toc_sticky: false
+toc_sticky: true
 # toc_icon: "cog"
 --- 
 
