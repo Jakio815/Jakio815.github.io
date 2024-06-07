@@ -45,6 +45,8 @@ padding: 5px;
 
 * **Dongha Kim** and Hokeun Kim, ["Poster Abstract: Securing Edge-Based Real-Time IoT Systems"](https://dl.acm.org/doi/10.1145/3625687.3628408), in Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys ’23), Istanbul, Turkiye, November 15, 2023.
 
+* **Dongha Kim** and Hokeun Kim, <a href="https://dl.acm.org/doi/10.1145/3625687.3628408" target="_blank">"Poster Abstract: Securing Edge-Based Real-Time IoT Systems"</a>, in Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys ’23), Istanbul, Turkiye, November 15, 2023.
+
 * Byeong-Gil Jun, **Dongha Kim**, Marten Lohstroh, and Hokeun Kim, ["Reliable Event Detection Using Time-Synchronized IoT Platforms"](https://dl.acm.org/doi/10.1145/3576914.3587501), in Proceedings of Cyber-Physical Systems and Internet of Things Week 2023 (CPS-IoT Week '23), Time-Centric Reactive Software (TCRS), San Antonio, TX, May 9, 2023. 
 
 * Youri Su, Sanghun Lee, Eunji Song, **Dongha Kim**, Jaeduk Han, and Hokeun Kim, ["Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces"](https://ieeexplore.ieee.org/document/9978518), in Proceedings of the 40th IEEE International Conference on Computer Design (ICCD 2022), Lake Tahoe, CA, October 24-26, 2022.
