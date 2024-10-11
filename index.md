@@ -40,7 +40,7 @@ padding: 5px;
 * **Dongha Kim**, Yeongbin Jo, Taekyung Kim, and Hokeun Kim, <a href="https://www.sciencedirect.com/science/article/pii/S2352711023000869" target="_blank">"SST v1.0.0 with C API: Pluggable security solution for the Internet of Things"</a>, SoftwareX, vol. 22, p. 101390, May 2023.
 
 ### Conference Papers
-* **Dongha Kim**, Chanhee Lee, and Hokeun Kim, ["Programming Model for Interoperability and Security of Edge-Based Distributed Systems"]() (Under review) FDL 2024
+* **Dongha Kim**, Chanhee Lee, and Hokeun Kim, ["Programming Model for Interoperability and Security of Edge-Based Distributed Systems"](), Proceedings of the 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP). New Orleans, LA, November 7 - 8, 2024.
 
 * **Dongha Kim** and Hokeun Kim, <a href="https://dl.acm.org/doi/10.1145/3625687.3628408" target="_blank">"Poster Abstract: Securing Edge-Based Real-Time IoT Systems"</a>, in Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys ’23), Istanbul, Turkiye, November 15, 2023.
 
