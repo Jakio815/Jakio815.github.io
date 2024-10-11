@@ -42,6 +42,8 @@ padding: 5px;
 ### Conference Papers
 * **Dongha Kim**, Chanhee Lee, and Hokeun Kim, ["Programming Model for Interoperability and Security of Edge-Based Distributed Systems"](), Proceedings of the 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP). New Orleans, LA, November 7 - 8, 2024.
 
+* Chanhee Lee, Deeksha Prahlad, **Dongha Kim**, and Hokeun Kim, <a href="https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/CPS-Proceedings/pdfs/EMSOFT/564100a001/564100a001.pdf" target="_blank">"Work-in-Progress: On-device Retrieval Augmented Generation with Knowledge Graphs for Personalized Large Language Models"</a>, Proceedings of the ACM SIGBED International Conference on Embedded Software (EMSOFT). Raleigh, NC, September 29 - October 4, 2024.
+
 * **Dongha Kim** and Hokeun Kim, <a href="https://dl.acm.org/doi/10.1145/3625687.3628408" target="_blank">"Poster Abstract: Securing Edge-Based Real-Time IoT Systems"</a>, in Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys ’23), Istanbul, Turkiye, November 15, 2023.
 
 * Byeong-Gil Jun, **Dongha Kim**, Marten Lohstroh, and Hokeun Kim, <a href="https://dl.acm.org/doi/10.1145/3576914.3587501" target="_blank">"Reliable Event Detection Using Time-Synchronized IoT Platforms"</a>, in Proceedings of Cyber-Physical Systems and Internet of Things Week 2023 (CPS-IoT Week '23), Time-Centric Reactive Software (TCRS), San Antonio, TX, May 9, 2023.
