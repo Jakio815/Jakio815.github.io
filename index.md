@@ -35,7 +35,7 @@ padding: 5px;
 
 ### Journal Articles
 
-* Wonseo Choi, **Dongha Kim**, Sangmo Sung, Dohyung Han, Haeun Jo, Dongwook Choi, Jae-Il Jung, and Hokeun Kim, ["Enhanced Wi-Fi AP Positioning using Hexagonal CNN with Mobile Data and Urban Information"]() (Under review) IEEE Internet of Things Journal
+* Wonseo Choi, **Dongha Kim**, Sangmo Sung, Dohyung Han, Haeun Jo, Dongwook Choi, Jae-Il Jung, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/10605903" target="_blank">"Enhanced Wi-Fi Access Point Positioning using Hexagonal CNN with Mobile Data and Urban Information"</a> IEEE Internet of Things Journal, Volume: 11, Issue: 20, pp. 33820-33832, October 2024.
 
 * **Dongha Kim**, Yeongbin Jo, Taekyung Kim, and Hokeun Kim, <a href="https://www.sciencedirect.com/science/article/pii/S2352711023000869" target="_blank">"SST v1.0.0 with C API: Pluggable security solution for the Internet of Things"</a>, SoftwareX, vol. 22, p. 101390, May 2023.
 
