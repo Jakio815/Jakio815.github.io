@@ -46,7 +46,7 @@ padding: 5px;
 * **Dongha Kim**, Yeongbin Jo, Taekyung Kim, and Hokeun Kim, <a href="https://www.sciencedirect.com/science/article/pii/S2352711023000869" target="_blank">"SST v1.0.0 with C API: Pluggable security solution for the Internet of Things"</a>, SoftwareX, vol. 22, p. 101390, May 2023.
 
 ### Conference Papers
-* Viraj Thakkar, **Dongha Kim**, Yingchun Lai, Hokeun Kim, and Zhichao Cao, ["SHIELD: Encrypting Persistent Data of LSM-KVS from Monolithic to Disaggregated Datacenters"]() (Under review) SIGMOD 2025
+* Viraj Thakkar, **Dongha Kim**, Yingchun Lai, Hokeun Kim, and Zhichao Cao, ["SHIELD: Encrypting Persistent Data of LSM-KVS from Monolithic to Disaggregated Storage"]() (Under review) SIGMOD 2025
 * **Dongha Kim**, Chanhee Lee, and Hokeun Kim, ["A Case Study of API Design for Interoperability and Security of the Internet of Things"](), Proceedings of the 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP). New Orleans, LA, November 7 - 8, 2024.
 
 * Chanhee Lee, Deeksha Prahlad, **Dongha Kim**, and Hokeun Kim, <a href="https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/CPS-Proceedings/pdfs/EMSOFT/564100a001/564100a001.pdf" target="_blank">"Work-in-Progress: On-device Retrieval Augmented Generation with Knowledge Graphs for Personalized Large Language Models"</a>, Proceedings of the ACM SIGBED International Conference on Embedded Software (EMSOFT). Raleigh, NC, September 29 - October 4, 2024.
