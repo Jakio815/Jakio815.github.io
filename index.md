@@ -31,6 +31,12 @@ padding: 5px;
 * 03/2022 ~ 07/2023 Ph.D. in Electronical Engineering, Hanyang University -> *Transferred to ASU*
 * 03/2016 ~ 02/2022 B.S. in Electronical Engineering, Hanyang University
 
+## Awards
+* University Graduate Fellowship (UGF) $4594 from Arizona State University (ASU) School of Computing and Augmented Intelligence (SCAI) (Spring. 2025)
+* National Science Foundation (NSF) EAI SmartSP 2024 Student Travel Grants $1000 (Nov. 2024)
+* Academic Achievement Award from Hanyang University (Feb. 2022)
+* Full Tuition Scholarships from Hanyang University for 3 semesters (Spring, Fall 2016, Spring 2017)
+
 ## Publications
 
 ### Journal Articles
@@ -52,10 +58,22 @@ padding: 5px;
 * Youri Su, Sanghun Lee, Eunji Song, **Dongha Kim**, Jaeduk Han, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/9978518" target="_blank">"Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces"</a>, in Proceedings of the 40th IEEE International Conference on Computer Design (ICCD 2022), Lake Tahoe, CA, October 24-26, 2022.
 
 ## Teaching Experience
+### Arizona State University
+* 2024 Fall: Teaching Assistance (TA) for CSE522 Real-Time Embedded Systems
+  * Create HW and Exam problems with solutions, including grading.
+  * Hold office hours and assist students with programming assignments.
+
 ### Hanyang University
 * 2023 Spring: Lab instructor of Embedded Systems Design
   * Lead 2-hour lab sections with exercises on Lingua-Franca framework
   * Developed new course materials from scratch
+
+## Academic Services
+### Secondary Reviewer
+* Design, Automation and Test in Europe Conference and Exhibition (DATE 2023 - 2024)
+* Design Automation Conference (DAC 2024-2025)
+* ACM SIGBED International Conference on Embedded Software (EMSOFT 2023-2024)
+
 
 ## Current Interest
 * System Level Security
