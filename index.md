@@ -55,6 +55,8 @@ padding: 5px;
 
 * Byeong-Gil Jun, **Dongha Kim**, Marten Lohstroh, and Hokeun Kim, <a href="https://dl.acm.org/doi/10.1145/3576914.3587501" target="_blank">"Reliable Event Detection Using Time-Synchronized IoT Platforms"</a>, in Proceedings of Cyber-Physical Systems and Internet of Things Week 2023 (CPS-IoT Week '23), Time-Centric Reactive Software (TCRS), San Antonio, TX, May 9, 2023.
 
+* Yunsang Cho, **Dongha Kim**, and Hokeun Kim, <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522617" target="_blank">"Performance Analysis of Federated Learning Using Flower Framework"</a> Summer Annual Conference of The Institute of Electronics and Information Engineers (IEIE), Jeju, Korea, June 28-30, 2023.
+
 * Youri Su, Sanghun Lee, Eunji Song, **Dongha Kim**, Jaeduk Han, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/9978518" target="_blank">"Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces"</a>, in Proceedings of the 40th IEEE International Conference on Computer Design (ICCD 2022), Lake Tahoe, CA, October 24-26, 2022.
 
 ## Teaching Experience
