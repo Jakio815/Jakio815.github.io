@@ -32,6 +32,7 @@ padding: 5px;
 * 03/2016 ~ 02/2022 B.S. in Electronical Engineering, Hanyang University
 
 ## Awards
+* ASU Graduate Student Government (GSG) Travel Grant $950
 * University Graduate Fellowship (UGF) $4594 from Arizona State University (ASU) School of Computing and Augmented Intelligence (SCAI) (Spring. 2025)
 * National Science Foundation (NSF) EAI SmartSP 2024 Student Travel Grants $1000 (Nov. 2024)
 * Academic Achievement Award from Hanyang University (Feb. 2022)
