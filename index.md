@@ -47,6 +47,8 @@ padding: 5px;
 
 ### Conference Papers
 <!-- * Viraj Thakkar, **Dongha Kim**, Yingchun Lai, Hokeun Kim, and Zhichao Cao, ["SHIELD: Encrypting Persistent Data of LSM-KVS from Monolithic to Disaggregated Storage"]() (Under review) SIGMOD 2025 -->
+* Deeksha Prahlad, Chanhee Lee, **Dongha Kim**, and Hokeun Kim, <a href="https://arxiv.org/abs/2505.09945" target="_blank">"Work-in-Progress: On-device Retrieval Augmented Generation with Knowledge Graphs for Personalized Large Language Models"</a>, *Proceedings of the ACM SIGBED International Conference on Embedded Software (EMSOFT)*. Raleigh, NC, September 29 – October 4, 2024. [<a href="https://hokeun.github.io/posters/WWW_2025_Poster.pdf" target="_blank">Poster</a>] [<a href="https://www.youtube.com/watch?v=lwW8FWrzwzM&ab_channel=HokeunKim" target="_blank">Video</a>] [<a href="https://github.com/asu-kim/personal-llm-kg" target="_blank">Code</a>] [<a href="https://huggingface.co/datasets/asu-kim/conversation-calendar" target="_blank">Dataset</a>]
+
 * **Dongha Kim**, Chanhee Lee, and Hokeun Kim, ["A Case Study of API Design for Interoperability and Security of the Internet of Things"](), Proceedings of the 2nd EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP). New Orleans, LA, November 7 - 8, 2024.
 
 * Chanhee Lee, Deeksha Prahlad, **Dongha Kim**, and Hokeun Kim, <a href="https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/CPS-Proceedings/pdfs/EMSOFT/564100a001/564100a001.pdf" target="_blank">"Work-in-Progress: On-device Retrieval Augmented Generation with Knowledge Graphs for Personalized Large Language Models"</a>, Proceedings of the ACM SIGBED International Conference on Embedded Software (EMSOFT). Raleigh, NC, September 29 - October 4, 2024.
