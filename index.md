@@ -27,8 +27,8 @@ padding: 5px;
 * <a href="https://scholar.google.com/citations?hl=ko&authuser=2&user=jBLD4qgAAAAJ" target="_blank">Google Scholar</a>
 
 ## Education
-* 03/2022 ~         **Ph.D. student in Computer Science, Arizona State University (ASU)** *(Transferred from Hanyang University 07/2023)*
-* 03/2016 ~ 02/2022 B.S. in Electronical Engineering, Hanyang University
+* 03/2022 -         **Ph.D. student in Computer Science, Arizona State University (ASU)** *(Transferred from Hanyang University in 07/2023)*
+* 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University
 
 ## Awards
 * ASU Graduate Student Government (GSG) Travel Grant $950
