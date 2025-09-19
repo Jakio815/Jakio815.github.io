@@ -31,7 +31,9 @@ padding: 5px;
 * 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University
 
 ## Awards
-* ASU Graduate Student Government (GSG) Travel Grant $950
+* ASU Graduate College Travel Award $300 (Sep. 2025)
+* ASU School of Computing and Augmented Intelligence (SCAI) conference funding $250 (Aug. 2025)
+* ASU Graduate Student Government (GSG) Travel Grant $950 (Jun. 2025)
 * University Graduate Fellowship (UGF) $4594 from Arizona State University (ASU) School of Computing and Augmented Intelligence (SCAI) (Spring. 2025)
 * National Science Foundation (NSF) EAI SmartSP 2024 Student Travel Grants $1000 (Nov. 2024)
 * Academic Achievement Award from Hanyang University (Feb. 2022)
@@ -63,6 +65,10 @@ padding: 5px;
 * Yunsang Cho, **Dongha Kim**, and Hokeun Kim, <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522617" target="_blank">"Performance Analysis of Federated Learning Using Flower Framework"</a> Summer Annual Conference of The Institute of Electronics and Information Engineers (IEIE), Jeju, Korea, June 28-30, 2023.
 
 * Youri Su, Sanghun Lee, Eunji Song, **Dongha Kim**, Jaeduk Han, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/9978518" target="_blank">"Energy-Efficient Bus Encoding Techniques for Next-Generation PAM-4 DRAM Interfaces"</a>, in Proceedings of the 40th IEEE International Conference on Computer Design (ICCD 2022), Lake Tahoe, CA, October 24-26, 2022.
+
+## Competitions
+* ESWEEK 2025 Embedded System Software Competition (ESSC), Taipei, Taiwan, September 2025 - Carlos Beltran Quinonez, **Dongha Kim**, Hokeun Kim, “SST Testbed: An Extensible Platform for Experimenting Attacks and Defenses for Networked Embedded Systems”
+
 
 ## Teaching Experience
 ### Arizona State University
