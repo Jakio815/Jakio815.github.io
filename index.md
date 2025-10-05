@@ -85,7 +85,7 @@ padding: 5px;
 ## Academic Services
 ### Secondary Reviewer
 * Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
-* Design, Automation and Test in Europe Conference and Exhibition (DATE 2023 - 2024)
+* Design, Automation and Test in Europe Conference and Exhibition (DATE 2023, 2024, 2026)
 * Design Automation Conference (DAC 2024-2025)
 * ACM SIGBED International Conference on Embedded Software (EMSOFT 2023-2024)
 
