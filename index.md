@@ -31,7 +31,7 @@ padding: 5px;
 * 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University
 
 ## Awards
-* ESWEEK 2025 Embedded System Software Competition (ESSC) **Winner**, Taipei, Taiwan, September 2025 - Carlos Beltran Quinonez, **Dongha Kim**, Hokeun Kim, “SST Testbed: An Extensible Platform for Experimenting Attacks and Defenses for Networked Embedded Systems”
+* **Winner** (1st place) of ESWEEK 2025 <a href="https://embedded-research-competition.github.io/" target="_blank">"Embedded System Software Competition (ESSC)"</a> **Winner**, Taipei, Taiwan, September 2025 - Carlos Beltran Quinonez, **Dongha Kim**, Hokeun Kim, “SST Testbed: An Extensible Platform for Experimenting Attacks and Defenses for Networked Embedded Systems” (Sep. 2025)
 * ASU Graduate College Travel Award $300 (Sep. 2025)
 * ASU School of Computing and Augmented Intelligence (SCAI) conference funding $250 (Aug. 2025)
 * ASU Graduate Student Government (GSG) Travel Grant $950 (Jun. 2025)
