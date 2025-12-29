@@ -73,9 +73,10 @@ padding: 5px;
 
 ## Teaching Experience
 ### Arizona State University
-* 2024 Fall: Teaching Assistance (TA) for CSE522 Real-Time Embedded Systems
+* 2024 Fall, <sup>*</sup>2025 Fall: Teaching Assistance (TA) for CSE522 Real-Time Embedded Systems
   * Create HW and Exam problems with solutions, including grading.
   * Hold office hours and assist students with programming assignments.
+  * <sup>*</sup> Led flipped learning sessions to review core concepts, homework, and hands-on lab assignments.
 
 ### Hanyang University
 * 2023 Spring: Lab instructor of Embedded Systems Design
