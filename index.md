@@ -24,7 +24,7 @@ padding: 5px;
 
 
 * ASU Computer Science Ph.D Student
-* <a href="https://scholar.google.com/citations?hl=ko&authuser=2&user=jBLD4qgAAAAJ" target="_blank">Google Scholar</a>
+* <a href="https://scholar.google.com/citations?user=jBLD4qgAAAAJ&hl" target="_blank">Google Scholar</a>
 
 ## Education
 * 03/2022 -         **Ph.D. student in Computer Science, Arizona State University (ASU)** *(Transferred from Hanyang University in 07/2023)*
