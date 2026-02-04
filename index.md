@@ -31,6 +31,7 @@ padding: 5px;
 * 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University
 
 ## Awards
+* IEEE Industrial Electronics Society (IES) Students and Young Professionals Paper Assistance Program (IES-SYPA), Travel Award $1,500 for ICIT 2026 (Mar. 2026) (to appear)
 * **Winner** (1st place) of ESWEEK 2025 <a href="https://embedded-research-competition.github.io/" target="_blank">"Embedded System Software Competition (ESSC)"</a> **Winner**, Taipei, Taiwan, September 2025 - Carlos Beltran Quinonez, **Dongha Kim**, Hokeun Kim, “SST Testbed: An Extensible Platform for Experimenting Attacks and Defenses for Networked Embedded Systems” (Sep. 2025)
 * ASU Graduate College Travel Award $300 (Sep. 2025)
 * ASU School of Computing and Augmented Intelligence (SCAI) conference funding $250 (Aug. 2025)
@@ -51,6 +52,8 @@ padding: 5px;
 * **Dongha Kim**, Yeongbin Jo, Taekyung Kim, and Hokeun Kim, <a href="https://www.sciencedirect.com/science/article/pii/S2352711023000869" target="_blank">"SST v1.0.0 with C API: Pluggable security solution for the Internet of Things"</a>, SoftwareX, vol. 22, p. 101390, May 2023.
 
 ### Conference Papers
+* Carlos Beltran Quinonez\*, **Dongha Kim\***, and Hokeun Kim, <a href="" target="_blank">"SST Testbed: An Experimental Platform of Attacks and Defenses for Networked Embedded Systems"</a>, (to appear) in Proceedings of the IEEE International Conference on Industrial Technology (ICIT). Monterrey, Mexico, March 4–6, 2026. (* Equally contributed lead authors.)
+
 * Viraj Thakkar\*, **Dongha Kim\***, Yingchun Lai, Hokeun Kim, and Zhichao Cao, <a href="https://dl.acm.org/doi/10.1145/3725354" target="_blank">"SHIELD: Encrypting Persistent Data of LSM-KVS from Monolithic to Disaggregated Storage"</a>, in Proceedings of ACM Conference on Management of Data (SIGMOD). Berlin, Germany, June 22 - 27, 2025. (* Equally contributed lead authors.) [<a href="https://hokeun.github.io/slides/SIGMOD_2025_Slides.pdf" target="_blank">Talk Slides</a>] [<a href="https://hokeun.github.io/posters/SIGMOD_2025_Poster.pdf" target="_blank">Poster</a>] [<a href="https://github.com/asu-idi/SHIELD" target="_blank">Code</a>]
 
 * Deeksha Prahlad, Chanhee Lee, **Dongha Kim**, and Hokeun Kim, <a href="https://dl.acm.org/doi/10.1145/3701716.3715473" target="_blank">"Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph"</a>, in Companion Proceedings of the ACM Web Conference (WWW). Sydney, NSW, Australia, April 28 - May 2, 2025. [<a href="https://hokeun.github.io/posters/WWW_2025_Poster.pdf" target="_blank">Poster</a>] [<a href="https://www.youtube.com/watch?v=lwW8FWrzwzM&ab_channel=HokeunKim" target="_blank">Video</a>] [<a href="https://github.com/asu-kim/personal-llm-kg" target="_blank">Code</a>] [<a href="https://huggingface.co/datasets/asu-kim/conversation-calendar" target="_blank">Dataset</a>]
