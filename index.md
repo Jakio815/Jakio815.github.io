@@ -53,7 +53,7 @@ padding: 5px;
 
 ### Conference Papers
 
-* Viraj Thakkar, **Dongha Kim**, Hokeun Kim, and Zhichao Cao, <a href="" target="_blank">"ANCHOR: A Vision for Secure Persistent Key-Value Stores in Disaggregated Data Centers"</a>, in Proceedings of the ACM SIGMOD Workshop on Secure and Private Data Management (SeQureDB). Bengaluru, India, May 31, 2026.
+* Viraj Thakkar, **Dongha Kim**, Hokeun Kim, and Zhichao Cao, <a href="" target="_blank">"ANCHOR: A Vision for Secure Persistent Key-Value Stores in Disaggregated Data Centers"</a>, (to appear) in Proceedings of the ACM SIGMOD Workshop on Secure and Private Data Management (SeQureDB). Bengaluru, India, May 31, 2026.
 
 * Carlos Beltran Quinonez\*, **Dongha Kim\***, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11490150" target="_blank">"SST Testbed: An Experimental Platform of Attacks and Defenses for Networked Embedded Systems"</a>, in Proceedings of the IEEE International Conference on Industrial Technology (ICIT). Monterrey, Mexico, March 4–6, 2026. (* Equally contributed lead authors.)
 
