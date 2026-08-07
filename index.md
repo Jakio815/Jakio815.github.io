@@ -23,7 +23,8 @@ padding: 5px;
 -->
 
 
-* ASU Computer Science Ph.D Student
+I am a Ph.D. student in the School of Computing and Augmented Intelligence at Arizona State University, advised by Prof. <a href="https://hokeun.github.io/" target="_blank">Hokeun Kim</a> at the <a href="https://labs.engineering.asu.edu/kim/" target="_blank">KIM Lab</a>.
+
 * <a href="https://scholar.google.com/citations?user=jBLD4qgAAAAJ&hl" target="_blank">Google Scholar</a>
 
 ## Education
