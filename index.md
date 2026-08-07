@@ -25,8 +25,6 @@ padding: 5px;
 
 I am a Ph.D. student in the School of Computing and Augmented Intelligence at Arizona State University, advised by Prof. <a href="https://hokeun.github.io/" target="_blank">Hokeun Kim</a> at the <a href="https://labs.engineering.asu.edu/kim/" target="_blank">KIM Lab</a>.
 
-* <a href="https://scholar.google.com/citations?user=jBLD4qgAAAAJ&hl" target="_blank">Google Scholar</a>
-
 ## Education
 * 03/2022 -         **Ph.D. student in Computer Science, Arizona State University (ASU)** *(Transferred from Hanyang University in 07/2023)*
 * 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University
