@@ -103,7 +103,6 @@ I am a Ph.D. student in Computer Science in the School of Computing and Augmente
 * Embedded Systems
 * Cyber-Physical Systems
 * Large Language Models
-* Blockchain
 
 ## Undergraduate Projects
 * <a href="https://github.com/Jakio815/Kickboard-Recognition-AI" target="_blank">Detecting Electric Kickboard On Jetson Nano</a>
