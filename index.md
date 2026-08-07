@@ -25,6 +25,8 @@ padding: 5px;
 
 I am a Ph.D. student in Computer Science in the School of Computing and Augmented Intelligence at Arizona State University, advised by Prof. <a href="https://hokeun.github.io/" target="_blank">Hokeun Kim</a> at the <a href="https://labs.engineering.asu.edu/kim/" target="_blank">KIM Lab</a>.
 
+**Research Interests**: Cyber-Physical Systems (CPS), Embedded & IoT Systems Security, Real-Time Systems, AI/ML in Security
+
 ## Education
 * 03/2022 -         **Ph.D. student in Computer Science, Arizona State University (ASU)** *(Transferred from Hanyang University in 07/2023)*
 * 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University
