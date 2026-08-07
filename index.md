@@ -27,6 +27,8 @@ I am a Ph.D. student in Computer Science in the School of Computing and Augmente
 
 **Research Interests**: Cyber-Physical Systems (CPS), Embedded & IoT Systems Security, Real-Time Systems, AI/ML in Security
 
+<a href="/assets/cv.pdf" target="_blank" class="btn btn--info"><i class="fas fa-file-pdf"></i> Curriculum Vitae (CV)</a>
+
 ## Education
 * 03/2022 -         **Ph.D. student in Computer Science, Arizona State University (ASU)** *(Transferred from Hanyang University in 07/2023)*
 * 03/2016 - 02/2022 B.S. in Electronical Engineering, Hanyang University

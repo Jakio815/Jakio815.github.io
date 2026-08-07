@@ -143,6 +143,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=jBLD4qgAAAAJ&hl"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/cv.pdf"
 
 # Site Footer
 footer:
