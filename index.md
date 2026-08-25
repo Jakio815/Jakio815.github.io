@@ -48,7 +48,9 @@ I am a Ph.D. student in Computer Science in the School of Computing and Augmente
 
 ### Journal Articles
 
-* **Dongha Kim** and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/11112709" target="_blank">"Deterministic Modeling and Simulation of Fault-Tolerant Real-Time Software"</a>, IEEE Embedded Systems Letters (Early Access), August 2025. (To be presented) in Time-Centric Reactive Software (TCRS) Workshop at ESWEEK 2025, Taipei, Taiwan, October 2, 2025.
+* Deeksha Prahlad, **Dongha Kim**, Pawan Kumar, Daniel Fan, and Hokeun Kim, <a href="" target="_blank">"Timing Behavior Analysis for Time-Sensitive Distributed Human- and Agent-in-the-Loop Cyber-Physical Systems"</a>, (to appear in) IEEE Embedded Systems Letters, October 2026. (To be presented at Time-Centric Reactive Software (TCRS) Workshop at ESWEEK 2026, Barcelona, Spain, October 8-9, 2026.)
+
+* **Dongha Kim** and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/11112709" target="_blank">"Deterministic Modeling and Simulation of Fault-Tolerant Real-Time Software"</a>, IEEE Embedded Systems Letters, vol. 18, no. 3, pp. 228-232, June 2026. (Presented at Time-Centric Reactive Software (TCRS) Workshop at ESWEEK 2025, Taipei, Taiwan, October 2, 2025.) [<a href="https://hokeun.github.io/slides/TCRS_2025_Slides_Kim.pdf" target="_blank">Talk Slides</a>]
 
 * Wonseo Choi, **Dongha Kim**, Sangmo Sung, Dohyung Han, Haeun Jo, Dongwook Choi, Jae-Il Jung, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/10605903" target="_blank">"Enhanced Wi-Fi Access Point Positioning using Hexagonal CNN with Mobile Data and Urban Information"</a> IEEE Internet of Things Journal, Volume: 11, Issue: 20, pp. 33820-33832, October 2024.
 
