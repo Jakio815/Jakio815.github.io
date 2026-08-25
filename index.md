@@ -56,6 +56,8 @@ I am a Ph.D. student in Computer Science in the School of Computing and Augmente
 
 ### Conference Papers
 
+* Krutyanjay Shinde, **Dongha Kim**, and Hokeun Kim, <a href="" target="_blank">"Design Exploration for Context-Based Access Control of Vision-Language-Action Model-Based Embodied Agents"</a>, (to appear) in Proceedings of the 3rd ACM Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS '26), Co-Located with the 2026 ACM Conference on Computer and Communications Security (CCS '26). The Hague, The Netherlands, November 15, 2026.
+
 * Viraj Thakkar, **Dongha Kim**, Hokeun Kim, and Zhichao Cao, <a href="" target="_blank">"ANCHOR: A Vision for Secure Persistent Key-Value Stores in Disaggregated Data Centers"</a>, (to appear) in Proceedings of the ACM SIGMOD Workshop on Secure and Private Data Management (SeQureDB). Bengaluru, India, May 31, 2026.
 
 * Carlos Beltran Quinonez\*, **Dongha Kim\***, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11490150" target="_blank">"SST Testbed: An Experimental Platform of Attacks and Defenses for Networked Embedded Systems"</a>, in Proceedings of the IEEE International Conference on Industrial Technology (ICIT). Monterrey, Mexico, March 4–6, 2026. (* Equally contributed lead authors.)
