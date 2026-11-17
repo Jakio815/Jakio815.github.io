@@ -48,7 +48,7 @@ I am a Ph.D. student in Computer Science in the School of Computing and Augmente
 
 ### Journal Articles
 
-* Deeksha Prahlad, **Dongha Kim**, Pawan Kumar, Daniel Fan, and Hokeun Kim, <a href="" target="_blank">"Timing Behavior Analysis for Time-Sensitive Distributed Human- and Agent-in-the-Loop Cyber-Physical Systems"</a>, (to appear in) IEEE Embedded Systems Letters, October 2026. (To be presented at Time-Centric Reactive Software (TCRS) Workshop at ESWEEK 2026, Barcelona, Spain, October 8-9, 2026.)
+* Deeksha Prahlad, **Dongha Kim**, Pawan Kumar, Daniel Fan, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/11664108" target="_blank">"Timing Behavior Analysis for Time-Sensitive Distributed Human- and Agent-in-the-Loop Cyber-Physical Systems"</a>, IEEE Embedded Systems Letters (Early access), October 2026. (Presented at Time-Centric Reactive Software (TCRS) Workshop at ESWEEK 2026, Barcelona, Spain, October 8-9, 2026.) [<a href="https://hokeun.github.io/slides/TCRS_2026_Slides_Prahlad.pdf" target="_blank">Talk Slides</a>]
 
 * **Dongha Kim** and Hokeun Kim, <a href="https://ieeexplore.ieee.org/document/11112709" target="_blank">"Deterministic Modeling and Simulation of Fault-Tolerant Real-Time Software"</a>, IEEE Embedded Systems Letters, vol. 18, no. 3, pp. 228-232, June 2026. (Presented at Time-Centric Reactive Software (TCRS) Workshop at ESWEEK 2025, Taipei, Taiwan, October 2, 2025.) [<a href="https://hokeun.github.io/slides/TCRS_2025_Slides_Kim.pdf" target="_blank">Talk Slides</a>]
 
@@ -58,9 +58,9 @@ I am a Ph.D. student in Computer Science in the School of Computing and Augmente
 
 ### Conference Papers
 
-* Krutyanjay Shinde, **Dongha Kim**, and Hokeun Kim, <a href="" target="_blank">"Design Exploration for Context-Based Access Control of Vision-Language-Action Model-Based Embodied Agents"</a>, (to appear) in Proceedings of the 3rd ACM Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS '26), Co-Located with the 2026 ACM Conference on Computer and Communications Security (CCS '26). The Hague, The Netherlands, November 15, 2026.
+* Krutyanjay Shinde, **Dongha Kim**, and Hokeun Kim, <a href="https://dl.acm.org/doi/full/10.1145/3846374.3846394" target="_blank">"Design Exploration for Context-Based Access Control of Vision-Language-Action Model-Based Embodied Agents"</a>, in Proceedings of the 3rd ACM Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS '26), Co-Located with the 2026 ACM Conference on Computer and Communications Security (CCS '26). The Hague, The Netherlands, November 15, 2026. [<a href="https://hokeun.github.io/slides/LAMPS_2026_Slides.pdf" target="_blank">Talk Slides</a>]
 
-* Viraj Thakkar, **Dongha Kim**, Hokeun Kim, and Zhichao Cao, <a href="" target="_blank">"ANCHOR: A Vision for Secure Persistent Key-Value Stores in Disaggregated Data Centers"</a>, (to appear) in Proceedings of the ACM SIGMOD Workshop on Secure and Private Data Management (SeQureDB). Bengaluru, India, May 31, 2026.
+* Viraj Thakkar, **Dongha Kim**, Hokeun Kim, and Zhichao Cao, <a href="https://arxiv.org/pdf/2608.27819" target="_blank">"ANCHOR: A Vision for Secure Persistent Key-Value Stores in Disaggregated Data Centers"</a>, in Proceedings of the ACM SIGMOD Workshop on Secure and Private Data Management (SeQureDB). Bengaluru, India, May 31, 2026.
 
 * Carlos Beltran Quinonez\*, **Dongha Kim\***, and Hokeun Kim, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11490150" target="_blank">"SST Testbed: An Experimental Platform of Attacks and Defenses for Networked Embedded Systems"</a>, in Proceedings of the IEEE International Conference on Industrial Technology (ICIT). Monterrey, Mexico, March 4–6, 2026. (* Equally contributed lead authors.)
 
